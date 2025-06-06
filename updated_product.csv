@@ -1,0 +1,11 @@
+product_id,prod_name,category,price
+1,Product_1,Books,1892
+2,Product_2,Electronics,4532
+3,Product_3,Clothing,1234
+4,Product_4,Furniture,5678
+5,Product_5,Toys,9101
+6,Product_6,Groceries,1121
+7,Product_7,Motor Vehicles,3141
+8,Product_8,Fuel,5161
+9,Product_9,Appliances,7181
+10,Product_10,Pharmaceuticals,9202
